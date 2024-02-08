@@ -1,5 +1,5 @@
 #' ---
-#' title: Computer Proyect 1
+#' title: Computer Project 1
 #' author: Carmen Abans
 #' ---
 
